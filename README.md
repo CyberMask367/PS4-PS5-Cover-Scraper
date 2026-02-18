@@ -27,7 +27,7 @@ A Python tool to search and download PS4 game cover art from the PlayStation Sto
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/cybermask367/ps4-cover-scraper.git
+git clone https://github.com/CyberMask367/PS4-Cover-Scraper.git
 cd ps4-cover-scraper
 ```
 
