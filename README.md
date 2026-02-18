@@ -26,8 +26,8 @@ A Python tool to search and download PS4/PS5 game cover art from the PlayStation
 **1. Clone the repository or download code and extract on your pc**
 
 ```bash
-git clone https://github.com/CyberMask367/PS4-Cover-Scraper.git
-cd ps4-cover-scraper
+git clone https://github.com/CyberMask367/PS4-PS5-Cover-Scraper.git
+cd ps4-ps5-cover-scraper
 ```
 
 **2. Install dependencies**
