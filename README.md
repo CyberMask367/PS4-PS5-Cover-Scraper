@@ -1,6 +1,6 @@
-# 🎮 PS4 Cover Scraper
+# 🎮 PS4/PS5 Cover Scraper
 
-A Python tool to search and download PS4 game cover art from the PlayStation Store. Search for a single game or bulk download covers for an entire library — all saved locally and ready to use.
+A Python tool to search and download PS4/PS5 game cover art from the PlayStation Store. Search for a single game or bulk download covers for an entire library — all saved locally and ready to use.
 
 ---
 
