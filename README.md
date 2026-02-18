@@ -151,6 +151,8 @@ Get a free API key at: https://api-docs.igdb.com/
 
 This tool uses an unofficial, legacy PlayStation Store API endpoint (`chihiro`). It is not affiliated with or endorsed by Sony Interactive Entertainment. The endpoint may change or become unavailable at any time. Use responsibly and respect PlayStation's servers.
 
+AI was used in development of this script.
+
 ---
 
 ## 🤝 Contributing
