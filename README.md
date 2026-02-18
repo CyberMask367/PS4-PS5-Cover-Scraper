@@ -11,7 +11,6 @@ A Python tool to search and download PS4 game cover art from the PlayStation Sto
 - 💾 Saves covers as `.jpg` files with clean, sanitized filenames
 - 🌍 Region support — search any PSN regional store (US, GB, JP, etc.)
 - 🎯 Optional [IGDB](https://api-docs.igdb.com/) integration for higher-quality cover art
-- ⏱️ Built-in request throttling to be respectful to PlayStation's servers
 
 ---
 
@@ -144,7 +143,7 @@ Get a free API key at: https://api-docs.igdb.com/
 ## ‼️ Issues (hoping to fix soon)
 
 - Searches pulls from all platfroms so PS3, PSP, PSVita games might show up in the results
-- Searches results might also include image of dlcs
+- Searche results might also include image of dlcs or addons
 - The scraper always display upto 20 listings even tho i set the limit to 100, maybe its a limit with the api
 ---
 
