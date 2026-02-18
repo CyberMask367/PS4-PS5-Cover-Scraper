@@ -24,7 +24,7 @@ A Python tool to search and download PS4 game cover art from the PlayStation Sto
 
 ## 🚀 Installation
 
-**1. Clone the repository**
+**1. Clone the repository or download code and extract on your pc**
 
 ```bash
 git clone https://github.com/CyberMask367/PS4-Cover-Scraper.git
@@ -139,6 +139,13 @@ Get a free API key at: https://api-docs.igdb.com/
 | `download_cover(image_url, output_path)` | Downloads a single image from a URL to disk. |
 | `scrape_game_covers(game_name, output_dir, download)` | Main method — searches PSN and optionally downloads all matching covers. |
 
+---
+
+## ‼️ Issues (hoping to fix soon)
+
+- Searches pulls from all platfroms so PS3, PSP, PSVita games might show up in the results
+- Searches results might also include image of dlcs
+- The scraper always display upto 20 listings even tho i set the limit to 100, maybe its a limit with the api
 ---
 
 ## ⚠️ Disclaimer
